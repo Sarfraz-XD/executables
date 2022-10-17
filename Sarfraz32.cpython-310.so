@@ -23,7 +23,7 @@ logo =                                          """
 def SXD():
     os.system('clear')
     print(logo)
-    Print("updating some time wait")
+    print("updating some time wait")
     exit()
     
 
